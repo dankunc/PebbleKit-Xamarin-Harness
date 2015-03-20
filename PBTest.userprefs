@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="PBTest/PBTest.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.Dan Kunc’s iPhone" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PBTest/PBTestViewController.cs">
+    <Files>
+      <File FileName="PBTest/AppDelegate.cs" Line="45" Column="4" />
+      <File FileName="PBTest/PBTestViewController.cs" Line="62" Column="1" />
+      <File FileName="PBTest/Main.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/PBTestViewController.cs" line="62" column="1" />
+      <Breakpoint file="/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/PBTestViewController.cs" line="75" column="14" />
+      <Breakpoint file="/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/PBTestViewController.cs" line="80" column="31" />
+      <Breakpoint file="/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/PBTestViewController.cs" line="85" column="34" />
+      <Breakpoint file="/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/PBTestViewController.cs" line="61" column="61" />
+      <Breakpoint file="/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/PBTestViewController.cs" line="62" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

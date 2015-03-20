@@ -1,0 +1,26 @@
+/Users/dennis/projects/PebbleBinding/PBTest/PBTest/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/dennis/projects/PebbleBinding/PBTest/PBTest/obj/iPhone/Debug/ibtool/LaunchScreen.nib
+/Users/dennis/projects/PebbleBinding/PBTest/PBTest/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/dennis/projects/PebbleBinding/PBTest/PBTest/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/dennis/projects/PebbleBinding/PBTest/PBTest/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/dennis/projects/PebbleBinding/PBTest/PBTest/obj/iPhone/Debug/actool/partial-info.plist
+/Users/dennis/projects/PebbleBinding/PBTest/PBTest/obj/iPhone/Debug/actool/asset-manifest.plist
+/Users/dennis/projects/PebbleBinding/PBTest/PBTest/obj/iPhone/Debug/
+/Users/dennis/projects/PebbleBinding/PBTest/PBTest/bin/iPhone/Debug/PBTest.exe.mdb
+/Users/dennis/projects/PebbleBinding/PBTest/PBTest/bin/iPhone/Debug/PBTest.exe
+/Users/dennis/projects/PebbleBinding/PBTest/PBTest/obj/iPhone/Debug/PBTest.exe
+/Users/dennis/projects/PebbleBinding/PBTest/PBTest/obj/iPhone/Debug/PBTest.exe.mdb
+/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/obj/iPhone/Debug/ibtool/LaunchScreen.nib
+/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/obj/iPhone/Debug/actool/partial-info.plist
+/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/obj/iPhone/Debug/actool/asset-manifest.plist
+/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/obj/iPhone/Debug/
+/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/bin/iPhone/Debug/PBTest.exe.mdb
+/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/bin/iPhone/Debug/PBTest.exe
+/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/obj/iPhone/Debug/PBTest.exe
+/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/obj/iPhone/Debug/PBTest.exe.mdb
+/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/bin/iPhone/Debug/PebbleKitAll.dll
+/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/bin/iPhone/Debug/PebbleKitAll-Debug.dll

@@ -1,0 +1,35 @@
+# Version: 8.8.0.2 (ccfcd59)
+# [first argument, ignore] # /Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.8.0.2/bin/mtouch-64 \
+	--cache \
+	"/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/obj/iPhone/Debug/mtouch-cache" \
+	--dev \
+	"/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/bin/iPhone/Debug/PBTest.app" \
+	--executable \
+	PBTest \
+	--debug \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	8.2 \
+	--targetver \
+	8.0 \
+	--new-refcount \
+	--abi=armv7 \
+	--gcc_flags \
+	"-lz -framework ExternalAccessory -framework CoreBluetooth -framework CoreMotion -framework CFNetwork -framework MessageUI" \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	../../PebbleKitAll/PebbleKitAll/bin/Release/PebbleKitAll.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r \
+	../../PebbleKitAll/PebbleKitAll/bin/Release/PebbleKitAll.dll \
+	"/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/bin/iPhone/Debug//PBTest.exe" \

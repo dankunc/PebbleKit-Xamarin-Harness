@@ -1,0 +1,27 @@
+/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/obj/iPhoneSimulator/Debug/
+/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/bin/iPhoneSimulator/Debug/PebbleBinding.dll
+/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/bin/iPhoneSimulator/Debug/PBTest.exe.mdb
+/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/bin/iPhoneSimulator/Debug/PBTest.exe
+/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/obj/iPhoneSimulator/Debug/PBTest.exe
+/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/obj/iPhoneSimulator/Debug/PBTest.exe.mdb
+/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/bin/iPhoneSimulator/Debug/PebbleKitAll.dll
+/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/obj/iPhoneSimulator/Debug/
+/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/bin/iPhoneSimulator/Debug/PBTest.exe.mdb
+/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/bin/iPhoneSimulator/Debug/PBTest.exe
+/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/obj/iPhoneSimulator/Debug/PBTest.exe
+/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/obj/iPhoneSimulator/Debug/PBTest.exe.mdb
+/Users/Dan/Documents/Xamarin Projects/PBTest/PBTest/bin/iPhoneSimulator/Debug/PebbleKitAll.dll

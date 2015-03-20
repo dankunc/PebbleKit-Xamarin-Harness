@@ -1,0 +1,13 @@
+/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/obj/iPhone/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/obj/iPhone/Release/ibtool/LaunchScreen.nib
+/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/obj/iPhone/Release/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/obj/iPhone/Release/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/obj/iPhone/Release/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/obj/iPhone/Release/actool/partial-info.plist
+/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/obj/iPhone/Release/actool/asset-manifest.plist
+/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/obj/iPhone/Release/
+/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/bin/iPhone/Release/PBTest.exe.mdb
+/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/bin/iPhone/Release/PBTest.exe
+/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/obj/iPhone/Release/PBTest.exe
+/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/obj/iPhone/Release/PBTest.exe.mdb
+/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/bin/iPhone/Release/PebbleKitAll.dll

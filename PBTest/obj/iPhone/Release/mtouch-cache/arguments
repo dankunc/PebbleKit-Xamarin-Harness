@@ -1,0 +1,32 @@
+# Version: 8.8.0.2 (ccfcd59)
+# [first argument, ignore] # /Users/dennis/Projects/PebbleBinding/PBTest/PBTest/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.8.0.2/bin/mtouch-64 \
+	--cache \
+	/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/obj/iPhone/Release/mtouch-cache \
+	--dev \
+	/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/bin/iPhone/Release/PBTest.app \
+	--executable \
+	PBTest \
+	--linksdkonly \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	8.1 \
+	--targetver \
+	8.0 \
+	--abi=armv7,arm64 \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	../../../PebbleKitX/PebbleKitAll/bin/Release/PebbleKitAll.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r \
+	../../../PebbleKitX/PebbleKitAll/bin/Release/PebbleKitAll.dll \
+	/Users/dennis/Projects/PebbleBinding/PBTest/PBTest/bin/iPhone/Release//PBTest.exe \
